@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jefssd/Jefssd/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jefssd/Jefssd/output/github-contribution-grid-snake.svg" />
-  <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/Jefssd/Jefssd/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jefssd/Jefssd/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jefssd/Jefssd/output/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/Jefssd/Jefssd/output/pacman-contribution-graph.svg" />
 </picture>
 
 <!--
